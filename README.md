@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/apoorv-git-code/Apoorv/blob/main/Tech%20Coding%20GIF.gif" width="40%" alt="Developer Banner"/>
+  <img src="https://github.com/apoorv-git-code/Apoorv/blob/main/Code%20Hacking%20GIF%20by%20Pizza%20Ninjas.gif" width="100%" alt="Developer Banner"/>
 </div>
 
 <h1 align="center">
@@ -7,10 +7,10 @@
   <img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/name.gif" alt="name" width="60px">
 </h1>
 
-<img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/Border1.gif" alt="Border1" width="100%">
+<img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/Border2.gif" alt="Border1" width="100%">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2E97CB&center=true&vCenter=true&random=false&width=600&height=100&lines=Python+Developer;DSA+Enthusiast;Piano+Player;Problem+Solver;C+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2E97CB&center=true&vCenter=true&random=false&width=600&height=100&lines=Python+Developer;AIML+Enthusiast;Piano+Player;Problem+Solver;C+Programmer" alt="Typing SVG" />
 </div>
 
 <img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/Border2.gif" alt="Border2" width="100%">

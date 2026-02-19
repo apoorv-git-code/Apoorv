@@ -3,17 +3,12 @@
 </div>
 
 <h1 align="center">
-  Hi <img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/Hi.gif" alt="Hi" width="30">, I'm Apoorv 
-  <img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/name.gif" alt="name" width="60px">
+  Hi, I'm Apoorv 
 </h1>
-
-<img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/Border2.gif" alt="Border1" width="100%">
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2E97CB&center=true&vCenter=true&random=false&width=600&height=100&lines=Python+Developer;AIML+Enthusiast;Piano+Player;Problem+Solver;C+Programmer" alt="Typing SVG" />
 </div>
-
-<img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/Border2.gif" alt="Border2" width="100%">
 
 ## 🚀 About Me
 
@@ -24,10 +19,7 @@
 - 🔍 Always exploring new ways to optimize code and build fun projects
 - 🎯 Goal-oriented developer focused on **clean code** and **efficient solutions**
 
-<img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/Border2.gif" alt="Border2" width="100%">
-
 <h2 align="center">
-  <img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/Project.gif" width="50px"> 
   Projects & Portfolio 
 </h2>
 
@@ -45,8 +37,6 @@
 
 </div>
 
-<img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/Border2.gif" alt="Border2" width="100%">
-
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
 <div align="center">
@@ -55,18 +45,12 @@
 <img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/C.gif" alt="C" width="80px">
 <img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/python.gif" alt="Python" width="80px">
 
-### Web & Frameworks
-<img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/React.gif" alt="React" width="80px">
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="40px">
-
 ### Tools & Environment
 <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" height="40px">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="40px">
 <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" height="40px">
 
 </div>
-
-<img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/Border2.gif" alt="Border2" width="100%">
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
@@ -79,15 +63,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=apoorv-git-code&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
-<img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/Border2.gif" alt="Border2" width="100%">
-
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=apoorv-git-code&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
-
-<img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/Border2.gif" alt="Border2" width="100%">
 
 <h2 align="center">📫 Let's Connect!</h2>
 
@@ -108,8 +88,6 @@
   <h3>💼 Open to collaborations and exciting opportunities!</h3>
   <p><em>"Always learning, always growing, always coding!"</em></p>
 </div>
-
-<img src="https://github.com/mayank-kumar-27/mayank-kumar-27/blob/main/Assets/Border2.gif" alt="Border2" width="100%">
 
 <h2 align="center">✨ Quote of the Day</h2>
 

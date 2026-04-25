@@ -27,23 +27,23 @@
 ---
 
 ### 📊 GitHub Statistics
-![Apoorv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Apoorv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=apoorv-git-code&show_icons=true&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorv-git-code&layout=compact&theme=radical)
 
 ---
 
 ### 🏆 GitHub Trophies
-![Apoorv's Trophies](https://github-readme-trophy.vercel.app/?username=your-username&theme=radical)
+![Apoorv's Trophies](https://github-readme-trophy.vercel.app/?username=apoorv-git-code&theme=radical)
 
 ---
 
 ### 🌐 Let's Connect!
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](your-instagram-link)
-[<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](your-youtube-link)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/apoorvmishra_07/)
+[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ApoorvMishra)
 
 > *“We may say most aptly that the Analytical Engine weaves algebraic patterns just as the Jacquard loom weaves flowers and leaves.”* – Ada Lovelace
 
 ---
 
 ### 📈 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=apoorv-git-code&color=blue)
